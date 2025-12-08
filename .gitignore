@@ -4,7 +4,7 @@
 .clj-kondo/
 .lsp/
 .idea/
-
+venv/
 # --- Operating System ---
 .DS_Store
 Thumbs.db
